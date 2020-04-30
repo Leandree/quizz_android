@@ -1,0 +1,4 @@
+#Thu Apr 30 20:54:35 CEST 2020
+base.0=/Users/leandre/dev/flutter projects/quizz_android/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
